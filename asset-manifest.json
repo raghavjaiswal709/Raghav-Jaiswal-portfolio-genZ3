@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raghav-Jaiswal-portfolio-genZ3/static/css/main.c1559b74.css",
+    "main.js": "/Raghav-Jaiswal-portfolio-genZ3/static/js/main.30be00e1.js",
+    "static/media/photo_2023-10-24_11-54-59.jpg": "/Raghav-Jaiswal-portfolio-genZ3/static/media/photo_2023-10-24_11-54-59.8936177cf9b923682720.jpg",
+    "static/media/vg.png": "/Raghav-Jaiswal-portfolio-genZ3/static/media/vg.bdfa5f7019af540184c0.png",
+    "index.html": "/Raghav-Jaiswal-portfolio-genZ3/index.html",
+    "main.c1559b74.css.map": "/Raghav-Jaiswal-portfolio-genZ3/static/css/main.c1559b74.css.map",
+    "main.30be00e1.js.map": "/Raghav-Jaiswal-portfolio-genZ3/static/js/main.30be00e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1559b74.css",
+    "static/js/main.30be00e1.js"
+  ]
+}
